@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light Theme Colors -->
+    <color name="primary">#2196F3</color>
+    <color name="background">#FFFFFF</color>
+    <color name="surface">#F5F8FA</color>
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#757575</color>
+    <color name="pill_background">#E3F2FD</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="primary_dark">#90CAF9</color>
+    <color name="background_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="text_primary_dark">#FFFFFF</color>
+    <color name="text_secondary_dark">#B0BEC5</color>
+    <color name="pill_background_dark">#1A3C4C</color>
+</resources>

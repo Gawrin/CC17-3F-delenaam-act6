@@ -1,0 +1,16 @@
+<resources>
+    <style name="TextAppearance.DayLabel" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="fontFamily">@font/source_sans_3</item>
+        <item name="android:fontFamily">@font/source_sans_3</item>
+    </style>
+
+    <style name="TextAppearance.TipTitle" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="fontFamily">@font/source_sans_3</item>
+        <item name="android:fontFamily">@font/source_sans_3</item>
+    </style>
+
+    <style name="TextAppearance.TipDescription" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="fontFamily">@font/source_sans_3</item>
+        <item name="android:fontFamily">@font/source_sans_3</item>
+    </style>
+</resources>

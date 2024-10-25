@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">30 Days of Mental Wellness for IT</string>
+
+    <string-array name="tip_titles">
+        <item>Don’t Feed the Gremlins</item>
+        <item>404: Motivation Not Found</item>
+        <item>Git a Life!</item>
+        <item>CTRL + Z Your Worries</item>
+        <item>Alt+Tab from Stress</item>
+
+        <item>Server is Down, So Should You</item>
+        <item>Reboot Your Brain</item>
+        <item>null.pointer.exception</item>
+        <item>Code is Poetry, Rest is Priority</item>
+        <item>Cache Me Outside</item>
+
+        <item>Segfault, Sweet Segfault</item>
+        <item>Infinite Loops &amp; Break Statements</item>
+        <item>Check Your Syntax</item>
+        <item>Exception Handling Required</item>
+        <item>Stack Overflow of Thoughts</item>
+
+        <item>Syntax Error at Line 1</item>
+        <item>Don’t DDoS Your Brain</item>
+        <item>Agile, but Chill</item>
+        <item>Commit to Self-Care</item>
+        <item>User Not Responding</item>
+
+        <item>Do You Even Lift (Tickets)?</item>
+        <item>Stay in the Loop()</item>
+        <item>Time to Ping Yourself</item>
+        <item>System Out of Memory</item>
+        <item>Don’t Push to Burnout</item>
+
+        <item>Hotfix: Mental Health</item>
+        <item>404: Relaxation Found</item>
+        <item>Try-Catch Your Breath</item>
+        <item>Release the Pressure (But Not the Code)</item>
+        <item>Hello, World! It’s Time to Celebrate</item>
+
+
+    </string-array>
+
+    <string-array name="tip_descriptions">
+        <item>Sleep before you see double. Debugging on 3 hours of sleep is like coding with a blindfold.</item>
+        <item>It\'s okay to not feel productive every day. Take a walk. The code will still be there when you return (unfortunately).</item>
+        <item>Don’t push to production after 4 p.m. unless you really enjoy living on the edge.</item>
+        <item>Made a mistake? Undo it! Remember, there’s always a rollback in life (just don’t tell the DB admin).</item>
+        <item>Switch your focus to something non-work-related. Your brain isn’t a CPU; it needs time to cool down.</item>
+
+        <item>When the server crashes, it’s the universe telling you to take a coffee break, not a panic attack.</item>
+        <item>Restarting your machine works wonders, so try it for your mind too—power down for a bit!</item>
+        <item>Some problems just can’t be solved today. Null-pointer exceptions happen to the best of us. Sleep on it.</item>
+        <item>Give your mind a break. Who says you can’t be poetic in your error messages?</item>
+        <item>Step outside, breathe in some fresh air. Clear your mental cache before returning to the grind.</item>
+
+        <item>If you’re constantly crashing, maybe it\'s time to recompile yourself with some relaxation.</item>
+        <item>If you’re stuck in an endless loop of stress, remember: It’s okay to break (take a break).</item>
+        <item>Take a moment to check how you’re communicating. Is your “code” clear to others?</item>
+        <item>Life throws exceptions too. Learn to handle them with humor—try not to throw tantrums in the process!</item>
+        <item>When your mind’s cluttered with too much, don’t be afraid to “dump” some thoughts. Journaling can help!</item>
+
+        <item>Start your day right. Your first action sets the tone—whether that’s a coffee or a crash.</item>
+        <item>Multitasking is a myth. Focus on one task at a time. You’ll avoid a mental “denial of service.”</item>
+        <item>Take life one sprint at a time, but remember to retro and relax.</item>
+        <item>Sometimes the most important commit is committing to self-care. No merge conflicts here!</item>
+        <item>It\'s okay to ignore a few notifications when you’re focusing on your wellness. Do Not Disturb = Do Not Feel Guilty.</item>
+
+        <item>If your backlog is looking heavier than usual, remember: You can only lift so much. Delegate and prioritize.</item>
+        <item>Stay connected with your colleagues, but don’t get stuck in endless meeting loops. Your sanity depends on it!</item>
+        <item>Check in with yourself. Self-awareness is key to staying mentally strong.</item>
+        <item>Feel like your brain is running out of RAM? Close some tabs (both real and metaphorical).</item>
+        <item>Never push yourself to production if you’re running on fumes. You’ll crash, and nobody wants a rollback.</item>
+
+        <item>Sometimes you need a hotfix—whether that’s an impromptu day off or just 10 minutes of quiet time.</item>
+        <item>Take time to do nothing today. No bug fixes. No code reviews. Just you and some relaxation.</item>
+        <item>If you’re feeling overwhelmed, take a deep breath. The code can wait.</item>
+        <item>Sometimes you’ve got to hit pause and release the stress. Save the build for tomorrow.</item>
+        <item>You’ve made it! Reward yourself. Remember, you’re more than just your code. Celebrate your wellness wins!</item>
+
+
+    </string-array>
+
+
+    <string-array name="tip_images">
+        <item>_gremlin</item>
+        <item>_motivationnot</item>
+        <item>_gitalife</item>
+        <item>_ctrlz</item>
+        <item>_alttab</item>
+
+        <item>_server</item>
+        <item>_reboot</item>
+        <item>_null</item>
+        <item>_poetry</item>
+        <item>_0cache</item>
+
+        <item>_1segfault</item>
+        <item>_2infinite</item>
+        <item>_3syntax</item>
+        <item>_4exception</item>
+        <item>_5stack</item>
+
+        <item>_6syntaxerror</item>
+        <item>_7ddos</item>
+        <item>_8agile</item>
+        <item>_9commit</item>
+        <item>_0notresponding</item>
+
+        <item>_1lift</item>
+        <item>_2loop</item>
+        <item>_3ping</item>
+        <item>_4memory</item>
+        <item>_5burnout</item>
+
+        <item>_6hotfix</item>
+        <item>_7404relax</item>
+        <item>_8trycatch</item>
+        <item>_9pressure</item>
+        <item>_0hello</item>
+
+
+    </string-array>
+</resources>
